@@ -1,5 +1,5 @@
 # Thesis_caseE-coarsemesh
-This is the backup code for the case E simulation is my thesis.
+This is the backup code for the case E simulation in my thesis.
 
 Case E:
 
